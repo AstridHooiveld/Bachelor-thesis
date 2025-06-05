@@ -1,4 +1,4 @@
-# Python-script: Simulatie voor Scenario 1 (aangepast model na tweede feedbackronde)
+# Python-script: Simulatie voor Scenario 1 (aangepast model na laatste feedbackronde)
 
 # Vul hieronder de juiste waarden in:
 ECT = 5.5      # Randsterkte in kN/m
